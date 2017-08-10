@@ -1,0 +1,20 @@
+{
+   "Student1" : {
+      "name" : "mahesh",
+	  "age" : 25,
+	  "profession" : "teacher",
+	  "id": 1
+   },
+   "Student2" : {
+      "name" : "suresh",
+	  "age" : 24,
+	  "profession" : "librarian",
+	  "id": 2
+   },
+   "Student3" : {
+      "name" : "ramesh",
+	  "age" : 26,
+	  "profession" : "clerk",
+	  "id": 3
+   }
+}
